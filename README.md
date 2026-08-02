@@ -22,7 +22,6 @@
     <a href="mailto:agustinacordoba002@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Ubicación-Ciudad%20Evita%2C%20ARG-0052B4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
 </div>
