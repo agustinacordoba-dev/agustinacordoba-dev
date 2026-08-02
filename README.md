@@ -68,14 +68,3 @@
 - **Tech Stack:** `PHP` • `Mustache` • `MySQL` • `JavaScript` • `CSS3`
 
 ---
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=agustinacordoba-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinacordoba-dev&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top Languages" />
-
-</div>
-
----
