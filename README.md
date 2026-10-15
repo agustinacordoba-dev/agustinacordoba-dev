@@ -20,10 +20,10 @@
 
 ### 👩‍💻 Sobre mí
 
-- 🎓 **Educación:** Estudiando la *Tecnicatura Universitaria en Desarrollo Web* en la **UNLaM**.
-- ⚡ **Enfoque Actual:** Desarrollando una plataforma de **E-commerce** orientada a comercios de productos importados, optimizada para ventas locales y distribución nacional.
-- 🧠 **Metodologías:** Aplicación de Programación Orientada a Objetos (**POO**), principios **SOLID**, patrones de diseño y pruebas unitarias con **TDD / JUnit**.
-- 🛠️ **Objetivo:** Construir soluciones backend sólidas, limpias y preparadas para escalar.
+- **Educación:** Estudiando la *Tecnicatura Universitaria en Desarrollo Web* en la **UNLaM**.
+- **Enfoque Actual:** Desarrollando una plataforma de **E-commerce** orientada a comercios de productos importados, optimizada para ventas locales y distribución nacional.
+- **Metodologías:** Aplicación de Programación Orientada a Objetos (**POO**), principios **SOLID**, patrones de diseño y pruebas unitarias con **TDD / JUnit**.
+- **Objetivo:** Construir soluciones backend sólidas, limpias y preparadas para escalar.
 
 ---
 
